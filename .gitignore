@@ -64,6 +64,9 @@ okx_copyright_registry.html
 # JSON配置文件（开发过程文件，无需发布）
 *.json
 
+# HTML文件（需要本地服务器环境，GitHub上无法直接使用）
+*.html
+
 # 临时文件
 temp_*
 *backup*
