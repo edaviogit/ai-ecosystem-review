@@ -61,8 +61,8 @@ copyright_verifier_offline.html
 okx_copyright_interface.html
 okx_copyright_registry.html
 
-# 个人身份声明文件（无需发布）
-identity_declaration.json
+# JSON配置文件（开发过程文件，无需发布）
+*.json
 
 # 临时文件
 temp_*
