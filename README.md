@@ -70,7 +70,7 @@ shasum -a 256 AI_Ecosystem_Comprehensive_Review_Journal.pdf
 
 ## 👤 作者信息
 
-- **姓名**: Lu Dawei (陆大为)
+- **姓名**: Lu Dawei
 - **区块链地址**: `0xaDb1fc541dEbc2c2336f0A60f36B15b718b9D79a`
 - **身份验证**: ✅ 区块链验证通过
 - **验证合约**: `0x6136485d8306814a1c9a54817818eF10c51eBff4`
