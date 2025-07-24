@@ -1,0 +1,83 @@
+# 排除所有开发和源文件，只保留发布所需的核心文件
+
+# 开发脚本和工具
+*.py
+*.sh
+
+# LaTeX源文件和编译文件
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+.latexmkrc
+
+# Markdown源文件
+AI_Ecosystem_Comprehensive_Review.md
+AI_Ecosystem_with_placeholders.md
+
+# 开发文档和指南
+BLOCKCHAIN_DEPLOYMENT_COSTS.md
+CONVERSION_GUIDE.md
+FIREFOX_CORRECTION.md
+MAINNET_DEPLOYMENT_GUIDE.md
+MARGIN_ADJUSTMENTS_SUMMARY.md
+MERMAID_PREVIEW.md
+OKX_WALLET_GUIDE.md
+POLYGON_COPYRIGHT_GUIDE.md
+PUBLISH_CHECKLIST.md
+QUICK_SOLUTION_GUIDE.md
+README_MACOS.md
+REMIX_DEPLOYMENT_STEPS.md
+REMIX_ERROR_FIX.md
+REMIX_UPLOAD_GUIDE.md
+TESTNET_DEPLOYMENT_GUIDE.md
+VERIFICATION_ERROR_SOLUTION.md
+contract_verification_guide.md
+document_hash_record.md
+identity_proof_system.md
+remix_deployment_guide.md
+simple_deploy_solution.md
+
+# 测试和报告文件
+*_report_*.json
+verification_report_*.json
+testnet_deployment_report_*.json
+
+# Mermaid图表源文件
+mermaid_diagrams/
+mermaid_to_latex_config.json
+
+# 合约源码文件（已部署，无需发布源码）
+*.sol
+
+# 开发HTML文件（保留主要的版权验证页面）
+copyright_verification_page.html
+copyright_verifier.html
+copyright_verifier_offline.html
+okx_copyright_interface.html
+okx_copyright_registry.html
+
+# 个人身份声明文件（无需发布）
+identity_declaration.json
+
+# 临时文件
+temp_*
+*backup*
+
+# 系统文件
+.DS_Store
+.vscode/
+*.swp
+*.swo
+
+# 非Journal版本的PDF
+AI_Ecosystem_Comprehensive_Review.pdf
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo 

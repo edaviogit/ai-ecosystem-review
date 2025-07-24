@@ -1,0 +1,17 @@
+{
+  "authors": {
+    "0xaDb1fc541dEbc2c2336f0A60f36B15b718b9D79a": {
+      "name": "Lu Dawei",
+      "chinese_name": "陆大为",
+      "display_name": "Lu Dawei (陆大为)",
+      "verified": true,
+      "registration_date": "2025-01-24",
+      "works_count": 1
+    }
+  },
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2025-01-24",
+    "description": "作者地址到真实姓名的映射数据库"
+  }
+} 

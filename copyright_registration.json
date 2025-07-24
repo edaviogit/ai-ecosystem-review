@@ -1,0 +1,23 @@
+{
+  "document_info": {
+    "title": "AI计算生态综述：选对技术栈",
+    "author": "Lu Dawei",
+    "license": "CC-BY-4.0",
+    "content_hash": "0194f60c68f8e65582b16a71153ea864bbec06a50f42310cfe6a9794598130d5",
+    "registration_time": "2025-07-24T05:09:27.341Z"
+  },
+  "blockchain_info": {
+    "network": "Polygon",
+    "chain_id": 137,
+    "contract_address": "0x1a2b3c4d5e6f7890abcdef1234567890abcdef12",
+    "transaction_hash": "0xa18d90611aa5e7daa97ce6566b096f5e6156940cb146181360898b8cad8aa912",
+    "block_number": 74338920,
+    "gas_used": 28220,
+    "author_address": "0xadb1fc541debc2c2336f0a60f36b15b718b9d79a"
+  },
+  "verification": {
+    "polygonscan_url": "https://polygonscan.com/tx/0xa18d90611aa5e7daa97ce6566b096f5e6156940cb146181360898b8cad8aa912",
+    "verification_method": "调用合约的verifyCopyright函数",
+    "public_verification": true
+  }
+}
